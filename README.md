@@ -1,4 +1,4 @@
-# Hod-Dog-Cookout-Calculator
+# Hot-Dog-Cookout-Calculator
 
 Ramses Chou R COP1047C-2233-12295
 
